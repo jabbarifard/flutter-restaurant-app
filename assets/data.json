@@ -1,0 +1,208 @@
+[
+  {
+    "foodType": "appetizer",
+    "foodItems": [
+      {
+        "description": "Iceberg Wedge Salad with House Cures Bacon - tomato salsa gorgonzola",
+        "price": "7.50"
+      },
+      {
+        "description": "Sauteed Shredded Brussels Sprouts - bacon hazelnuts gorgonzola",
+        "price": "6.95"
+      },
+      {
+        "description": "Kale Salad - parmesan crisp corn radish garlic-lemon vinaigrette",
+        "price": "7.50"
+      },
+      {
+        "description": "Pecan Crusted Utah Goat Cheese with Basil-Mint Pesto - grilled tomato salsa crostini",
+        "price": "6.95"
+      },
+      {
+        "description": "Chicken and Cabbage Eggrolls hot & sour dipping sauce",
+        "price": "6.95"
+      }
+    ]
+  },
+  {
+    "foodType": "fajita",
+    "foodItems": [
+      {
+        "description": "Chicken Onions, Poblano and Bell Peppers, Guacamole, Two Salsas",
+        "price": "10.95"
+      },
+      {
+        "description": "Sirloin Steak, Onions, Poblano and Bell peppers, Carrots, Onion, Guacamole, Two Salsas",
+        "price": "10.95"
+      }
+    ]
+  },
+  {
+    "foodType": "entrees",
+    "foodItems": [
+      {
+        "description": "Farfalle Pasta with Braised Pork in Tomato Cream - capers butternut squash kale",
+        "price": "12.95"
+      },
+      {
+        "description": "Stout Braised Bratwusrt - horseradish mashed potato roasted root veggies grilled onion",
+        "price": "13.95"
+      },
+      {
+        "description": "Salmon & Crispy Tofu in Yellow Curry Sauce - vegetable saute golden raisin chutney",
+        "price": "15.95"
+      },
+      {
+        "description": "Sesame Shrimp - udon noodles ramen broth shiitake mushrooms bean sprouts scallions",
+        "price": "13.95"
+      }
+    ]
+  },
+  {
+    "foodType": "coldSandwich",
+    "foodItems": [
+      {
+        "description": "Turkey & Avocado - with tomato",
+        "price": ""
+      },
+      {
+        "description": "Pub Club - turkey, bacon, lettuce, tomato",
+        "price": ""
+      },
+      {
+        "description": "Rare Roast Beef & Swiss - sweet-hot mustard, lettuce, red onion",
+        "price": ""
+      },
+      {
+        "description": "Veggie - pepper jack, avocado, sprout, tomato",
+        "price": "13.95"
+      }
+    ]
+  },
+  {
+    "foodType": "hotSandwich",
+    "foodItems": [
+      {
+        "description": "Southwest Chicken Breast Grilled Onion,Poblano Pepper,Tomato,Lettuce,Jack Cheese",
+        "price": "9.50"
+      },
+      {
+        "description": "Portobello Fresh Mozzarella Caramelized Onion,Roasted Pepper,Tomato,Field Greens,Basil Aiolo",
+        "price": "9.50"
+      },
+      {
+        "description": "Chipotle BBQ Pork Sandwich with Pickled Jalapeno Slaw",
+        "price": "9.50"
+      },
+      {
+        "description": "Bacon Burger Swiss, Lettuce, Tomato",
+        "price": "9.50"
+      },
+      {
+        "description": "Mexi Burger Pepper Relish, Pepper Jack, Tomato, Lettuce, Guacamole",
+        "price": "9.25"
+      },
+      {
+        "description": "Herb Marinated Top Sirloin Crimini Mushrooms, Caramelized Onion, Gorgonzola, Basil Aioli, Served Open Faced on Fococcia",
+        "price": "10.95"
+      },
+      {
+        "description": "Roast Beef with Ancho Au Jus jack Cheese, Grilled Onions, Served on Crumb Bros Baguette",
+        "price": "9.75"
+      },
+      {
+        "description": "Blackened Catfish Creole Peppers & Onions, Fresh Herb Aioli, Served on house made Sourdough",
+        "price": "9.75"
+      }
+    ]
+  },
+  {
+    "foodType": "soup&salad",
+    "foodItems": [
+      {
+        "description": "French Onion or Soup of the Day",
+        "price": "4.95"
+      },
+      {
+        "description": "French Onion or Soup of the Day Combos with small green salad, fresh fruit or house pasta",
+        "price": "7.25"
+      },
+      {
+        "description": "French Onion or Soup of the Day Combos with half pasta of the day",
+        "price": "8.75"
+      }
+    ]
+  },
+  {
+    "foodType": "taco",
+    "foodItems": [
+      {
+        "description": "Beer Battered Fish with Jalapeno Remoulade, roasted Salsa, Cabbage",
+        "price": "9.95"
+      },
+      {
+        "description": "Carne Asada(marinated sirloin) with Guacamole, Tomatillo Salsa",
+        "price": "9.95"
+      },
+      {
+        "description": "Citrus Marinated Chicken with Guacamole, Tomatillo Salsa",
+        "price": "9.95"
+      },
+      {
+        "description": "Grilled Veggie with Zucchini, Yellow Squash, Bell Peppers, Onion, Guacamole, Tomatillo Salsa",
+        "price": "9.95"
+      }
+    ]
+  },
+  {
+    "foodType": "enchilada",
+    "foodItems": [
+      {
+        "description": "Chili Relleno stuffed with Jack Cheese & Corn Glazed Yam, Chayote Squash Succotash, Red Chili Sauce",
+        "price": "9.95"
+      },
+      {
+        "description": "Pepita Crusted Salmon with Chipotle Glaze - chevre whipped yams, jicama slaw, tomatillo sauce",
+        "price": "10.95"
+      }
+    ]
+  },
+  {
+    "foodType": "quiche",
+    "foodItems": [
+      {
+        "description": "Bacon, Swiss, Mushroom, Zucchini and Mushroom Quiche Choice of Fresh Fruit or Green Salad",
+        "price": "8.95"
+      }
+    ]
+  },
+  {
+    "foodType": "greenSalad",
+    "foodItems": [
+      {
+        "description": "Grilled Red Trout Lentils, Tomatoes, Cukes, Green Beans, red Bells, Almonds, Sundried Tomato Vinaigrette",
+        "price": "10.95"
+      },
+      {
+        "description": "Smoked Turkey Cheese Tortellini, Bacon, Tomato, Cucumber, Egg, Black Bean-Corn Salsa, Avocado",
+        "price": "9.95"
+      },
+      {
+        "description": "Asian Grilled Chicken Snow Peas, Carrot Slaw, Red Bells, Water Chestnut, Peanuts, Baby Corn, Cilantro, Cukes, Spicy Peanut Dressing",
+        "price": "10.50"
+      },
+      {
+        "description": "Southwest Grilled Chicken Tomato, Guacamole, pepitas, Jicama, Corn & Black Bean Salsa, Orange Wedges, Spicy Citrus Vinaigrette",
+        "price": "10.50"
+      },
+      {
+        "description": "Mediterranean Italian Sausage, Artichoke Hearts, Green Beans, Roma Tomato, Kalamatas, Red Onion, Cucumber, Croutons, Parmesan, Fresh Mozzarella, Gorgonzola Vinaigrette",
+        "price": "9.95"
+      },
+      {
+        "description": "Grilled Salmon Artichoke tapenade, Shredded Kale, Corn, Radish, Parmesan Crisps",
+        "price": "11.50"
+      }
+    ]
+  }
+]
